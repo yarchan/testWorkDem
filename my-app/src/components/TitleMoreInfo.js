@@ -3,7 +3,7 @@
 
 function TitleMoreInfo() {
   return (
-    <div className="info__more">
+    <div className="container__info">
       <p className="info__more-text">
         Вместе с
         <span className="highlight-textе"> бесплатной консультацией </span>

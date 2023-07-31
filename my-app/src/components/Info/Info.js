@@ -4,7 +4,7 @@ import TitleInfo from "../TitleInfo";
 import TitleMoreInfo from "../TitleMoreInfo";
 function Info() {
   return (
-    <div className="info">
+    <div className="container">
       <TitleInfo />
       <TitleMoreInfo />
     </div>
